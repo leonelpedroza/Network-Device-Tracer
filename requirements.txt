@@ -1,0 +1,12 @@
+Core networking libraries
+
+paramiko>=2.7.2
+netmiko>=4.0.0
+
+If you're packaging as an executable
+pyinstaller>=5.6.2
+
+Optional dependencies for development
+pytest>=7.0.0
+flake8>=5.0.0
+black>=22.0.0

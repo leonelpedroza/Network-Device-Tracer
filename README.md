@@ -15,6 +15,8 @@ This tool is intended to help locate the physical port in Cisco and Fortinet net
 
 A user-friendly graphical interface for tracing devices through networks by querying ARP and MAC address tables on Cisco and Fortinet devices.
 
+![](https://github.com/leonelpedroza/Network-Device-Tracer/blob/main/pantallazo.png)
+
 ## 🌟 Features
 
 - **Intuitive Graphical Interface**: Easy-to-use GUI for network path discovery

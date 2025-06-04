@@ -1,5 +1,15 @@
 # Network Device Tracer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Networking-blue?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+
 ## 📖 History
 
 How often has a network support engineer had to deal with a remote connection without knowing where the device to be diagnosed is connected, whether the port is configured correctly or whether some fundamental parameter is missing, or how many connection errors, especially at the physical level, are occurring?
@@ -10,8 +20,6 @@ This tool is intended to help locate the physical port in Cisco and Fortinet net
 
 
 ## 🚀 Introduction
-
-<img align="right" width="180" src="https://img.shields.io/badge/Python-Networking-blue?style=for-the-badge&logo=python&logoColor=white">
 
 A user-friendly graphical interface for tracing devices through networks by querying ARP and MAC address tables on Cisco and Fortinet devices.
 
